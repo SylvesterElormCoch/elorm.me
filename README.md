@@ -1,12 +1,17 @@
 # Sylvester Elorm Coch
 # Dali Website Challenge
 
-T
+This is sample website developed in html, css, and javascript. It contains
+portfolio work and a bit of information about me. Hope you like it.
 
-- [Become a professional React developer](https://scrimba.com/g/greact)
-- [The Responsive Web Design Bootcamp](https://scrimba.com/g/gresponsive)
-- [The Ultimate JavaScript Bootcamp](https://scrimba.com/g/gjavascript)
+### Skills & Knowledge gained
+* CSS grid layouts and flexbox
+* Responsive Design
+* Focus on functionality and then the look
 
-	It would also mean the world to us if you share the courses.
+### Possible Add-ons
+* Full-page scroll across sections
+* Alternate hamburger icon with navbar on different screen sizes
 
-Happy Coding!
+- [See Challenge](https://github.com/dali-lab/dali-challenges/blob/master/docs/website_challenge.md)
+
